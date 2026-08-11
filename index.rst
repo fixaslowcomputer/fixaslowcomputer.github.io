@@ -5,7 +5,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>How Do I Fix a Slow Computer | Complete Guide</title>
+<title>How Do I Fix a Slow Computer | In 2026</title>
 
 <meta name="description" content="Learn how to fix a slow computer with this complete guide. Improve computer performance, free storage space, manage startup apps, and troubleshoot common causes of slow performance.">
 
