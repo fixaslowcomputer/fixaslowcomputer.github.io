@@ -2,6 +2,12 @@
 
 <html lang="en">
 <head>
+
+    <meta name="google-site-verification" content="wnirspfOuwfoLQ4NMvoecua-7XeCWRXVGPMZrwdeMqw" />
+    <meta name="msvalidate.01" content="4183C1A20548153BC97457FC7935A0EA" />
+
+
+
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
